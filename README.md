@@ -5,10 +5,10 @@
 
 ### Personal details
 
-- Name:Mandava Ramu<br>
-- Mail Id:Ramu.mandava@apssdc.in<br>
+- Name: Mahankali Geethika<br>
+- Mail Id: mgeethika2000@gmail.com<br>
 - Phone:+91 XXXXXXXXXX <br>
-- Address: Ongole <br>
+- Address: Vijayawada <br>
 ### Education Details :
 
 **B-Tech**
@@ -16,21 +16,21 @@
 - College Name: __Mic College__<br>
 - Branch : Computer Science Engineering<br>
 - Year Of Study: 2018 - 2022<br>
-- Precentage : 71%<br>
+- Precentage : 73.8%<br>
 - Address : Vijayawada<br>
 
 **Intermediate**
-- College Name: __Sri Prathibha Jr Coolege__<br>
+- College Name: __Sri Chaitanya Jr Coolege__<br>
 - Branch : MPC<br>
 - Year Of Study: 2016 - 2018<br>
-- Precentage : 85.3%<br>
-- Address : Ongole<br>
+- Precentage : 75%<br>
+- Address : Vijayawada<br>
 
 **SSC**
-- SchoolName: __Z.P.H.S.Pondur__<br>
+- SchoolName: __sri Chaitanya__<br>
 - Year Of Study: 2016<br>
-- Precentage : 85.3%<br>
-- Address : Pondur<br>
+- Precentage : 78.0%<br>
+- Address : Vijayawada<br>
 
 ### **Skills**
 
@@ -50,8 +50,6 @@ I Want To Software Developer in `Python`
 
 - Reading A Newspaper or Books<br>
 - Listining Music<br>
-- Playing Cricket<br>
-- Playing Chess<br>
 
 ### **Strengths & Weaknesses**
 - Strengths:
@@ -59,10 +57,6 @@ I Want To Software Developer in `Python`
   - Logical thinking
 - Weaknesses:
   - Lazeyness
- 
-### **Achievements**
- 
- - I Got First Prize in Chess 
  
 ###  **Projects**
  
