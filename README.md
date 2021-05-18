@@ -32,7 +32,7 @@
 - Precentage : 85.3%<br>
 - Address : Pondur<br>
 
-**Skills**
+### **Skills**
 
 - Python - 100%
 
@@ -42,27 +42,29 @@
 
 - C Programming -90%
 
-**Goals**
+### **Goals**
 
 I Want To Software Developer in `Python`
 
-**Hobbies**
+### **Hobbies**
 
 - Reading A Newspaper or Books<br>
 - Listining Music<br>
 - Playing Cricket<br>
 - Playing Chess<br>
 
-**Strengths & Weaknesses**
+### **Strengths & Weaknesses**
 - Strengths:
   - Hardwork
   - Logical thinking
 - Weaknesses:
   - Lazeyness
  
- **Achievements**
+### **Achievements**
  
  - I Got First Prize in Chess 
  
- **Projects**
+###  **Projects**
+ 
+ 
  
